@@ -1,5 +1,5 @@
 # Inquisitiv
-An android applications that uses convolutional neural networks to recognize the objects around you and give information about those objects
+An android application that uses convolutional neural networks to recognize the objects around you and give information about those objects
 
 # Architecture
 (under construction)
